@@ -1,0 +1,13 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sundeep Malladi <sundeep.malladi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "estilo": "^1.5.0"
+  },
+  "scripts": {
+    "render": "estilo render"
+  }
+}

@@ -1,0 +1,115 @@
+# BASE UI
+ColorColumn: ''
+Conceal: ''
+Cursor: 'deepcove aquamarine'
+CursorIM: ''
+CursorColumn: ''
+CursorLine: '- deepcove_bright'
+CursorLineNr: 'san_marino - b'
+Directory: ''
+DiffAdd: ''
+DiffChange: ''
+DiffDelete: ''
+DiffText: ''
+ErrorMsg: ''
+VertSplit: 'san_marino deepcove'
+Folded: ''
+FoldColumn: ''
+SignColumn: '- deepcove'
+IncSearch: ''
+LineNr: 'san_marino'
+MatchParen: 'blushpink - b'
+ModeMsg: ''
+MoreMsg: ''
+NonText: ''
+Normal: 'white deepcove'
+PMenu: ''
+PMenuSel: ''
+PmenuSbar: ''
+PmenuThumb: ''
+Question: ''
+Search: ''
+SpecialKey: ''
+SpellBad: ''
+SpellLocal: ''
+SpellCap: ''
+SpellRare: ''
+StatusLine: ''
+StatusLineNC: ''
+TabLine: ''
+TabLineFill: ''
+TabLineSel: ''
+Title: 'aquamarine'
+Visual: '- astronaut'
+VisualNOS: ''
+WarningMsg: ''
+WildMenu: ''
+# BASE SYNTAX
+Comment: 'san_marino - i'
+Constant: 'blushpink'
+String: 'aquamarine' # Constant
+Character: '' # Constant
+Boolean: 'malibu' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: ''
+Function: 'malibu' # Identifier
+Statement: 'blushpink'
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: ''
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'heliotrope'
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'blushpink'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: 'aquamarine' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: ''
+Todo: 'aquamarine - i'
+
+Noise: 'gray'
+
+# HTML
+htmlItalic: 'malibu - i'
+htmlLink: 'heliotrope'
+htmlBold: 'malibu - b'
+
+# Markdown
+markdownUrl: 'malibu'
+markdownCode: 'aquamarine'
+markdownFootnote: 'blushpink - b'
+markdownFootnoteDefinition: 'blushpink - b'
+markdownRule: 'aquamarine'
+
+# JavaScript
+jsArrowFunction: 'heliotrope'
+jsFuncArgs: 'dodgerblue - b'
+jsFuncName: 'blushpink'
+jsFuncCall: 'white'
+# jsFuncName: 'blushpink'
+# jsVariableDef: 'blushpink'
+jsReturn: 'dodgerblue - i'
+jsGlobalObjects: 'dodgerblue'
+jsOperator: 'gray'
+jsTemplateExpression: 'malibu'
+
+# YAML
+yamlBlockMappingKey: 'white'
+yamlKeyValueDelimiter: 'gray'
+
+# Go
+goStatement: 'dodgerblue - i'

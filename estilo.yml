@@ -1,0 +1,10 @@
+name: 'midnight'
+version: '1.0.0'
+license: 'MIT'
+author: 'Sundeep Malladi'
+url: 'https://github.com/balanceiskey/escent'
+description: 'A vim colorscheme for 2020 or 2120'
+colorschemes:
+  - name: midnight
+    background: 'dark'
+    palette: midnight

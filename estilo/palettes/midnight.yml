@@ -1,0 +1,36 @@
+# http://chir.ag/projects/name-that-color
+
+aquamarine: '#80FFF0'
+blushpink: '#FF77E9'
+dodgerblue: '#34C2FF'
+# deepcove: '#061036'
+deepcove: '#060D28'
+heliotrope: '#CC8BFF'
+malibu: '#67E4FF'
+san_marino: '#42569B'
+gray: '#888888'
+froly: '#F47373'
+# white: '#FFFFFF'
+# white: '#CAD3F1'
+white: '#DADFEE'
+astronaut: '#223371'
+deepcove_bright: '#091850'
+
+
+
+
+
+ # * 1. aquamarine, the light blue and the blue in teh console are alarmingly similar.
+ # *
+ # *  I will say, these colors feel better on the retina, so that's something there to watch out for. Comment/cursorline is still a little too close though.
+ # * 2. There might be some room to go deeper on the the background color, not ready to commit just yet. In particular comments don't quite have the contrast we nee dto be visible.
+ # * 3. Italic return ftw. Still feeling out how I feel about matching parens that italicize, but it's kinda fun
+ # * 4. we need highlight, we need split colors.
+ # * This theme generally speaking looks better at night on this particular monitor but starts to fall apart in the daylight, which maybe is an argument for eventual light theme
+ #
+ #
+ #
+ #
+ #
+ # The white is a bit harsh.
+
