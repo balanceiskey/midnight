@@ -98,18 +98,24 @@ markdownRule: 'aquamarine'
 # JavaScript
 jsArrowFunction: 'heliotrope'
 jsFuncArgs: 'dodgerblue - b'
+jsFuncArgCommas: 'gray'
 jsFuncName: 'blushpink'
 jsFuncCall: 'white'
-# jsFuncName: 'blushpink'
-# jsVariableDef: 'blushpink'
 jsReturn: 'dodgerblue - i'
 jsGlobalObjects: 'dodgerblue'
 jsOperator: 'gray'
 jsTemplateExpression: 'malibu'
 
 # YAML
-yamlBlockMappingKey: 'white'
+yamlBlockMappingKey: 'heliotrope'
 yamlKeyValueDelimiter: 'gray'
 
 # Go
 goStatement: 'dodgerblue - i'
+
+# NERDTree
+NERDTreeDir: 'heliotrope'
+NERDTreeOpenable: 'san_marino'
+NERDTreeClosable: 'blushpink'
+NERDTreeDirSlash: 'blushpink'
+NERDTreeExecFile: 'dodgerblue'

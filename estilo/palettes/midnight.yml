@@ -9,18 +9,19 @@ heliotrope: '#CC8BFF'
 malibu: '#67E4FF'
 san_marino: '#42569B'
 gray: '#888888'
-froly: '#F47373'
 # white: '#FFFFFF'
 # white: '#CAD3F1'
 white: '#DADFEE'
 astronaut: '#223371'
 deepcove_bright: '#091850'
 
+froly: '#F47373'
 
 
 
 
- # * 1. aquamarine, the light blue and the blue in teh console are alarmingly similar.
+
+ # * 1. aquamarine, the light blue and the blue in the console are alarmingly similar.
  # *
  # *  I will say, these colors feel better on the retina, so that's something there to watch out for. Comment/cursorline is still a little too close though.
  # * 2. There might be some room to go deeper on the the background color, not ready to commit just yet. In particular comments don't quite have the contrast we nee dto be visible.

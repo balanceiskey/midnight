@@ -4,7 +4,7 @@
 " URL: https://github.com/balanceiskey/escent
 " Author: Sundeep Malladi
 " License: MIT
-" Last Change: 2020/05/07 20:56
+" Last Change: 2020/05/07 21:07
 " ===============================================================
 
 set background=dark
@@ -58,15 +58,21 @@ hi markdownFootnoteDefinition guifg=#FF77E9 ctermfg=212 guibg=NONE ctermbg=NONE 
 hi markdownRule guifg=#80FFF0 ctermfg=123 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsArrowFunction guifg=#CC8BFF ctermfg=177 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsFuncArgs guifg=#34C2FF ctermfg=75 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
+hi jsFuncArgCommas guifg=#888888 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsFuncName guifg=#FF77E9 ctermfg=212 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsFuncCall guifg=#DADFEE ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsReturn guifg=#34C2FF ctermfg=75 guibg=NONE ctermbg=NONE gui=Italic cterm=Italic
 hi jsGlobalObjects guifg=#34C2FF ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsOperator guifg=#888888 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsTemplateExpression guifg=#67E4FF ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi yamlBlockMappingKey guifg=#DADFEE ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi yamlBlockMappingKey guifg=#CC8BFF ctermfg=177 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#888888 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi goStatement guifg=#34C2FF ctermfg=75 guibg=NONE ctermbg=NONE gui=Italic cterm=Italic
+hi NERDTreeDir guifg=#CC8BFF ctermfg=177 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeOpenable guifg=#42569B ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeClosable guifg=#FF77E9 ctermfg=212 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeDirSlash guifg=#FF77E9 ctermfg=212 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeExecFile guifg=#34C2FF ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 if exists('*term_setansicolors')
   let g:terminal_ansi_colors = repeat([0], 16)

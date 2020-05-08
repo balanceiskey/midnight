@@ -8,8 +8,6 @@ const softball = () => {
   return 'Something.';
 };
 
-function split (apple, banana) {
+function split(apple, banana) {
   console.log('yo!');
 }
-
-
